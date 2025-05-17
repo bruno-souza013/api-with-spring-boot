@@ -1,4 +1,4 @@
-package br.com.maylon;
+package br.com.souza;
 
 public class SimpleMath {
 
